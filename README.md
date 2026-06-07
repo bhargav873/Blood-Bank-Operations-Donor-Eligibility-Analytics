@@ -50,7 +50,7 @@ To develop a comprehensive Power BI analytics dashboard that:
 * **Availability Status:** Displays real-time operational availability of the donor pool.
 
 
-  ## 💡 Key Insights & Findings
+## 💡 Key Insights & Findings
 * **Critical Stock Alert:** Visualizations highlight that specific negative or rarer blood groups face low stock counts, signaling a need for targeted donor drives.
 * **Seasonal Peaks:** The Donation Over Time chart indicates significant drops/peaks in certain months (e.g., April drops vs. June peaks), allowing the bank to plan inventory safeguards in advance.
 * **Eligibility Trends:** A significant percentage of potential donors fall under temporary deferral/ineligibility status, pinpointing an opportunity to optimize communication on donor requirements before they visit.
