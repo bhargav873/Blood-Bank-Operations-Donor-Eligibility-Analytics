@@ -1,3 +1,4 @@
+<img width="1080" height="582" alt="Blood Bank Overview" src="https://github.com/user-attachments/assets/c12962a5-286b-4ea4-8b52-af83187d0276" />
 # Blood-Bank-Operations-Donor-Eligibility-Analytics
 An interactive multi-page Power BI dashboard designed to analyze blood bank inventory, donor eligibility, and monthly donation trends from an operational dataset.
 
@@ -22,22 +23,10 @@ To develop a comprehensive Power BI analytics dashboard that:
   **## 📊 Dashboard Structure & Key Features
 
 ### 1. Executive Overview
-![Blood Bank Overview](blood-bank-overview.png)
-* **Key Metrics:** Monitors total donor counts and total blood units collected at a glance.
+
+<img width="1080" height="582" alt="Blood Bank Overview" src="https://github.com/user-attachments/assets/fb4fefe5-3dd0-4f11-b8c8-36635afaf333" />
+
+**Key Metrics:** Monitors total donor counts and total blood units collected at a glance.
 * **Breakdown:** Visualizes blood group distribution alongside gender-wise donor metrics.
 
-### 2. Donor Eligibility & Health Analysis
-![Donor Eligibility and Health](donor-eligibility-health.png)
-* **Health Metrics:** Compares donor weight against eligibility criteria.
-* **Demographics:** Visualizes age group vs. donor count to isolate target demographics for future drives.
-
-### 3. Donation Frequency & Trend Analysis
-![Donation Trends and Frequency](donation-trends-frequency.png)
-* **Time-Series:** Tracks donation fluctuations month-over-month to identify seasonal peaks.
-* **Summary Table:** A granular breakdown filtering total units donated by blood group and date.
-
-### 4. Inventory & Management Insights
-![Blood Inventory Management](blood-inventory-management.png)
-* **Stock Tracking:** Highlights high-risk/low-stock blood types to prevent critical shortages.
-* **Availability Status:** Displays real-time operational availability of the donor pool.**
 
